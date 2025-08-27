@@ -1,0 +1,7 @@
+{
+  "name": "naosei",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
